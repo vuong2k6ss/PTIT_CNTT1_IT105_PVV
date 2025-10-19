@@ -64,3 +64,12 @@
    • User Acceptance Test (UAT - Kiểm thử chấp nhận): Giao cho nhân viên y tế và một nhóm người dân dùng thử. Họ sẽ xác nhận hệ thống có đáp ứng đúng nhu cầu và dễ sử dụng hay không.
    • Security Test: Kiểm tra các lỗ hổng bảo mật, đặc biệt là việc bảo vệ dữ liệu nhạy cảm.
 
+6. Deployment & Maintenance (Triển khai & Bảo trì)
+   Giai đoạn cuối cùng để đưa hệ thống vào sử dụng thực tế và hỗ trợ vận hành.
+   • Deployment (Triển khai): Cài đặt phiên bản đã qua kiểm thử lên máy chủ thật (production) để người dân và trung tâm y tế bắt đầu sử dụng.
+   • Đào tạo: Hướng dẫn và đào tạo cho các nhân viên y tế cách sử dụng trang quản trị.
+   • Data Migration (Chuyển đổi dữ liệu): Nếu trung tâm y tế đang dùng Excel hoặc sổ sách, cần có kế hoạch nhập dữ liệu cũ (nếu cần) vào hệ thống mới.
+   • Maintenance (Bảo trì):
+    o Sửa lỗi: Theo dõi và sửa các lỗi phát sinh trong quá trình vận hành thực tế.
+    o Nâng cấp: Cập nhật các tính năng mới dựa trên phản hồi của người dùng (ví dụ: thêm chức năng gửi tin nhắn SMS nhắc lịch tiêm).
+    o Giám sát: Đảm bảo máy chủ hoạt động ổn định, hiệu năng tốt và an toàn.
